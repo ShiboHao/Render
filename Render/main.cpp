@@ -50,7 +50,7 @@ int main()
 	mat4 perspective_mat = mat4_perspective(60, (float)(width) / height, -0.1, -10000);
 
 	// initialize models and shaders by builidng a scene
-	int scene_index = 0;
+	int scene_index = 5;
 	int model_num = 0;
 	Model* model[MAX_MODEL_NUM];
 	IShader* shader_model;
