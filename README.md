@@ -9,9 +9,7 @@
 
 ### 演示
 #### Blinn-Phong 着色
-
-
-
+ ![Image text](img/phong.png) 
 
 #### PBR 着色 + skybox
 
