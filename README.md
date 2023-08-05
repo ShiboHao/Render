@@ -15,4 +15,4 @@
 
 #### PBR 着色 + skybox
 
- ![Image text](pbr.png) 
+ ![Image text](img/pbr.png) 
